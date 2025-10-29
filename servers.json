@@ -1,13 +1,12 @@
 [
   {
-    "name": "United States",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVTBTZ3h6YjdiazBxaFBMZEJ6cmN4@165.227.124.249:65193/?outline=1"
-  },
-  {
     "name": "Germany",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOWUVwZGJsMXhOYlFLVkF5QWJPNEJk@164.90.231.182:2099/?outline=1"
   },
- 
+ {
+    "name": "United States",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVTBTZ3h6YjdiazBxaFBMZEJ6cmN4@165.227.124.249:65193/?outline=1"
+  },
   {
     "name": "United Kingdom",
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWeUdTbkFVTFRQdUozRTd5STh1RmhJ@209.38.166.204:54441/?outline=1"
