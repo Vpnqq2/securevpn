@@ -16,7 +16,7 @@
   "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#Netherlands%20#28608%20/%20OutlineKeys.com"
 },
   {
-    "name": "Qatar OpenVPN (URL)",
+    "name": "Qatar OpenVPN",
     "config_url": "https://raw.githubusercontent.com/Vpnqq2/securevpn/refs/heads/main/fr200.ovpn",
     "username": "vpnbook",
     "password": "it6b99a"
